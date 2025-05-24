@@ -1,1 +1,1 @@
-This project was desenvoled using spring boot on java, and others languages, for exemplo: CSS, JavaScript, Html, MySQL.
+This project was developed using spring boot in java, and others languages. For example: CSS, JavaScript, Html, MySQL.
